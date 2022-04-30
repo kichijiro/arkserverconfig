@@ -10,5 +10,5 @@ https://ark.wiki.gg/wiki/Server_configuration
 `cheat forceupdatedynamicconfig`  -- this is the Cheat Command you'll use in game 
 
 ## These go into your command line launcher
-`-UseDynamicConfig ? customdynamicconfigurl="https://raw.githubusercontent.com/kichijiro/arkserverconfig/main/arkserverconfig.ini"`
+`-UseDynamicConfig ? customdynamicconfigurl="https://dl.dropboxusercontent.com//s/..."`
 
